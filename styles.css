@@ -1,0 +1,254 @@
+div {
+    position: absolute;
+}
+
+div[style*="width: 1400px"] {
+    width: 1400px;
+    height: 890px;
+    background: #2F1893;
+}
+
+div[style*="width: 470px"][style*="left: 715px"] {
+    width: 470px;
+    height: 600px;
+    left: 715px;
+    top: 187px;
+}
+
+.check {
+    width: 24px;
+    height: 24px;
+    border-radius: 6px;
+}
+
+.signin {
+    left: 300px;
+    top: 527px;
+    position: absolute;
+    color: #25DAC5;
+    font-family: DM Sans;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.account {
+    left: 100px;
+    top: 529px;
+    position: absolute;
+    text-align: center;
+    color: rgba(21.06, 20.34, 56.79, 0.40);
+    font-size: 18px;
+    font-family: DM Sans;
+    font-weight: 500;
+    line-height: 28px;
+    word-wrap: break-word;
+}
+
+.twitter {
+    left: 96px;
+    top: 12px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-family: DM Sans;
+    font-weight: 500;
+    line-height: 26px;
+    word-wrap: break-word;
+}
+
+.signin-main {
+    left: 137px;
+    top: 12px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-family: DM Sans;
+    font-weight: 500;
+    line-height: 26px;
+    word-wrap: break-word;
+}
+
+.or {
+    left: 154.50px;
+    top: 0px;
+    position: absolute;
+    opacity: 0.90;
+    text-align: center;
+    color: rgba(21.06, 20.34, 56.79, 0.40);
+    font-size: 16px;
+    font-family: DM Sans;
+    font-weight: 400;
+    line-height: 26px;
+    word-wrap: break-word;
+}
+
+.agree {
+    left: 37px;
+    top: 0.40px;
+    position: absolute;
+    color: rgba(21.06, 20.34, 56.79, 0.40);
+    font-size: 16px;
+    font-family: DM Sans;
+    font-weight: 400;
+    line-height: 26px;
+    word-wrap: break-word;
+}
+
+.check {
+    font-size: large;
+    position: relative;
+    align-items: flex-start;
+    display: inline;
+}
+
+.pass {
+    left: 24px;
+    top: 12px;
+    position: absolute;
+    color: rgba(21.06, 20.34, 56.79, 0.40);
+    font-size: 18px;
+    font-family: DM Sans;
+    font-weight: 500;
+    line-height: 26px;
+    word-wrap: break-word;
+}
+
+.email {
+    left: 24px;
+    top: 12px;
+    position: absolute;
+    color: rgba(21.06, 20.34, 56.79, 0.40);
+    font-size: 18px;
+    font-family: DM Sans;
+    font-weight: 500;
+    line-height: 26px;
+    word-wrap: break-word;
+}
+
+.signup {
+    left: 114px;
+    top: 48px;
+    position: absolute;
+    text-align: center;
+    color: #1E0E62;
+    font-size: 42px;
+    font-family: DM Sans;
+    font-weight: 700;
+    line-height: 52px;
+    word-wrap: break-word;
+}
+
+.important {
+    width: 363px;
+    left: 3px;
+    top: 241px;
+    position: absolute;
+    color: white;
+    font-size: 22px;
+    font-family: DM Sans;
+    font-weight: 500;
+    line-height: 32px;
+    word-wrap: break-word;
+}
+
+.learn {
+    left: 31px;
+    top: 12px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-family: DM Sans;
+    font-weight: 500;
+    line-height: 26px;
+    word-wrap: break-word;
+}
+
+.web {
+    width: 424px;
+    height: 217px;
+    left: 3px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 58px;
+    font-family: DM Sans;
+    font-weight: 700;
+    line-height: 70px;
+    word-wrap: break-word;
+}
+
+.purchase {
+    left: 28px;
+    top: 7px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-family: DM Sans;
+    font-weight: 500;
+    line-height: 26px;
+    word-wrap: break-word;
+}
+
+.feedback {
+    left: 265px;
+    top: 7.40px;
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    font-family: DM Sans;
+    font-weight: 500;
+    line-height: 26px;
+    word-wrap: break-word;
+}
+
+.blog {
+    left: 196px;
+    top: 7.40px;
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    font-family: DM Sans;
+    font-weight: 500;
+    line-height: 26px;
+    word-wrap: break-word;
+}
+
+.price {
+    left: 113px;
+    top: 7.40px;
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    font-family: DM Sans;
+    font-weight: 500;
+    line-height: 26px;
+    word-wrap: break-word;
+}
+
+.over {
+    left: 0px;
+    top: 7.40px;
+    position: absolute;
+    opacity: 0.30;
+    color: white;
+    font-size: 18px;
+    font-family: DM Sans;
+    font-weight: 500;
+    line-height: 26px;
+    word-wrap: break-word;
+}
+
+.start {
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    font-family: DM Sans;
+    font-weight: 700;
+    word-wrap: break-word;
+}
